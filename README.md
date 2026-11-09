@@ -6,3 +6,4 @@ Fun facts about me:
 - 📚 Have coded in Python since 8th grade, have been coding in Go for almost a year.
 - 🏆 In high-school secured a top-three finish in informatics olympiads (🥉, 🥇 🥉) and one hackathon (🥈).
 - 🏫 Currently studying Informatics Systems Engineering at Vilnius University alongside [boot.dev](https://boot.dev.com).
+- 🗿 Neovim, Linux, i3.
